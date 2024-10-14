@@ -7,12 +7,104 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Results from the Engineering Student Council’s divestment survey <a href=\"https://docs.google.com/spreadsheets/d/1oZc639mVm3AtrJvte8v_JrhGZtJ16zn2OfSu8FlqEdw/edit?usp=sharing\">showed</a> 74.52 percent of participants support the University’s financial divestment from Israel, with 4.74 percent against divestment and 20.74 percent abstaining."
+          },
+          {
+            "type": "text",
+            "value": "The council released the results in a newsletter on Saturday evening. The survey, which the council <a href=\"https://www.instagram.com/p/C6rJdiquoTx/?hl=en&img_index=1\">sent</a> out on May 7, obtained responses from 38.79 percent of eligible voters in the School of Engineering and Applied Science student body, including members of the class of 2024, who have since graduated."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "waffle.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In addition to the question about financial divestment, participants were asked whether the University should end its dual degree program with Tel Aviv University and cancel the opening of the Tel Aviv Global Center—the same questions included in the referenda conducted by <a href=\"https://www.columbiaspectator.com/news/2024/04/22/columbia-college-overwhelmingly-passes-divestment-referendum/\">Columbia College Student Council</a> and the <a href=\"https://www.columbiaspectator.com/news/2024/04/30/barnard-student-body-votes-for-divestment-from-israel-with-over-90-percent-in-favor-as-sga-releases-election-results/\">Barnard Student Government Association</a> last spring."
+          },
+          {
+            "type": "text",
+            "value": "Of the participants in ESC’s survey, 62.37 percent were in favor of ending the dual degree program with Tel Aviv University while 10.96 percent supported the program’s continuation and 26.67 percent abstained from responding."
+          },
+          {
+            "type": "text",
+            "value": "Additionally, 68 percent of participants were in favor of canceling the opening of the  Tel Aviv Global Center. Roughly 9 percent supported its establishment, and 22.81 percent abstained from responding."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia has a longstanding campus committee, <a href=\"https://www.finance.columbia.edu/content/advisory-committee-socially-responsible-investing\">Advisory Committee on Socially Responsible Investing</a>, already in place to advise the University Trustees on ethical and social issues that arise in the management of the investments in the University’s endowment,” University spokesperson Samantha Slater wrote in a statement to Spectator. “Before divestment can be recommended, ACSRI has established specific criteria.”"
+          },
+          {
+            "type": "text",
+            "value": "The Advisory Committee on Socially Responsible Investing <a href=\"https://www.columbiaspectator.com/news/2024/03/05/advisory-committee-on-socially-responsible-investing-rejects-cuad-divestment-proposal/\">rejected</a> a Dec. 1, 2023 proposal from Columbia University Apartheid Divest, citing a failure to meet the “broad consensus” required for consideration. This criterion, defined as more than just a majority agreement, calls for a “generally unified view” across the University community."
+          },
+          {
+            "type": "text",
+            "value": "“We call upon our university to uphold its purported ideals of ‘Engineering for Humanity’ through concrete divestment from the Israeli and US war machines,” Columbia Engineering Apartheid Divest <a href=\"https://www.instagram.com/p/DBC7k6Gt0CO/?hl=en&img_index=3\">wrote</a> in a Saturday Instagram post about the results of the survey."
+          },
+          {
+            "type": "text",
+            "value": "ESC previously <a href=\"https://www.columbiaspectator.com/news/2024/04/04/esc-rejects-referendum-on-divestment-from-israel/\">rejected</a> a petition from Columbia University Apartheid Divest to issue a referendum on the University’s divestment from Israel on its spring election ballot, claiming that “due to University policy, ESC has no power to act on any of the items in the proposed referendum,”<a href=\"https://www.instagram.com/p/C5WV5xOu5zf/?hl=en\"> according to an April 4 Instagram post. </a>"
+          },
+          {
+            "type": "text",
+            "value": "“We recognize the urgency of this situation, and hear the concerns of the many students who signed the petition,” ESC wrote in the post."
+          },
+          {
+            "type": "text",
+            "value": "In place of a referendum, ESC opted to send out a survey to “chart a path forward that reflects the will of the student body,” according to its Instagram post."
+          },
+          {
+            "type": "text",
+            "value": "The School of General Studies <a href=\"https://www.columbiaspectator.com/news/2024/05/06/gssc-votes-against-holding-referendum-on-divestment-from-israel/\">opted not to hold a </a><a href=\"https://www.columbiaspectator.com/news/2024/05/06/gssc-votes-against-holding-referendum-on-divestment-from-israel/\">referendum</a><a href=\"https://www.columbiaspectator.com/news/2024/05/06/gssc-votes-against-holding-referendum-on-divestment-from-israel/\"> </a>and did not conduct a survey. The results of the nonbinding referenda conducted by CCSC and SGA last spring reflected similar student sentiment, showing 76.55 percent and 90.99 percent in favor of divestment, respectively."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s dual degree program with Tel Aviv University was established in 2019, but it builds upon “long-standing exchange program partnership between both universities,” according to its <a href=\"https://tau.gs.columbia.edu/content/about-dual-degree-program\">website</a>. Students enrolled in the dual degree program spend the first two years at Tel Aviv University’s Lowy International School and the final two years at the School of General Studies."
+          },
+          {
+            "type": "text",
+            "value": "Former University President Lee Bollinger, Law ’71, <a href=\"https://news.columbia.edu/news/columbia-launch-new-global-center-tel-aviv\">announced</a> the University’s intention to create a new global center in Tel Aviv on April 3, 2023. The <a href=\"https://globalcenters.columbia.edu/content/message-former-president-lee-c-bollinger\">global centers</a>—an initiative of Bollinger’s—are “essential to expanding our understanding of the world and to preparing new generations to confront urgent problems that refuse to be cabined by national boundaries,” Bollinger wrote in a message on the Columbia Global Center’s website."
+          },
+          {
+            "type": "text",
+            "value": "That same month, 97 faculty members <a href=\"https://drive.google.com/file/d/1blwYKqdAzztVQVMl5LKRKqFfLgtmeauw/view\">signed</a> an open letter expressing their concerns surrounding the new center’s establishment, questioning its adherence to the University’s <a href=\"https://facultyhandbook.columbia.edu/content/columbia-universitys-non-discrimination-statement-and-policy\">nondiscrimination policy</a>. The letter argues that Israel’s ban on the entry of citizens of Lebanon, Syria, Libya, Iran, and Iraq denies certain faculty and students access to opportunities at the center, violating the University’s policy that all programs must be available to all members of the community."
+          },
+          {
+            "type": "text",
+            "value": "In opposition, a letter garnering over 170 faculty signatures <a href=\"https://www.columbiaspectator.com/news/2023/04/04/columbia-global-announces-tel-aviv-center/\">defended</a> the center’s establishment, arguing that the University’s global centers are not politically affiliated with their host governments and that there are “sound scholarly reasons not to apply a political litmus test to the countries we study.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Tulasi Cherukuri can be contacted at </i><a href=\"mailto:tulasi.cherukuri@columbiaspectator.com\"><i>tulasi.cherukuri@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "Staff Writer<i> Ria Vasishtha can be contacted at </i><a href=\"mailto:ria.vasishtha@columbiaspectator.com\"><i>ria.vasishtha@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Laya Gollamudi can be contacted at </i><a href=\"mailto:laya.gollamudi@columbiaspectator.com\"><i>laya.gollamudi@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "ESC survey results show majority support for divestment from Israel",
+        "date": "October 14, 2024",
+        "byline": "By Tulasi Cherukuri, Ria Vasishtha. Graphic by Laya Gollamudi",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SDGMWBK7ERHSNGKGDGM3S7MMTE.jpg",
+        "cover_caption": "Esmeralda Paredes / Deputy Photo Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1spZhOFckS6k9AWgkDYrdxpC9lyI23crkipFES6OLA7I/edit?tab=t.0"
       }
     }
   }
